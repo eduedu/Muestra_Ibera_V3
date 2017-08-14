@@ -1,0 +1,6 @@
+
+*.pdb
+bin/
+obj/
+*.sdf
+*.opensdf
